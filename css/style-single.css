@@ -1,0 +1,73 @@
+
+*  {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header {
+    min-height: 200px;
+    background-color: #fff;
+}
+
+.site-name-col {
+    color: #2a5399;
+}
+
+.site-name:hover, .site-name:focus {
+    text-decoration: none;
+}
+
+.btn-schedule {
+    background-color: #387fbb;
+
+    /*box-shadow:  rgba(134, 176, 209 0.9);*/
+    box-shadow: rgba(0,0,0, .1);
+
+}
+
+.fet-font-color {
+    color: #86b0d1;
+}
+
+.gal-img a:hover .image-hover {
+    opacity: .6;
+}
+
+.image-hover {
+    height: 400px;
+    width: 48%;
+    border-radius: 10px;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+.phone-color {
+    color: #86b0d1;!important;
+}
+
+.sch-hov:hover .sch-hover {
+    opacity: .6;
+    transition: .8s;
+}
+
+.text-gray {
+    color: gray;!important;
+}
+
+.map-size {
+    height: 400px;
+    width: 98%;
+}
+
+.aff-head {
+    color: #2a5399;
+}
+
+.main-image {
+    width: 100%;
+    border-radius: 5px;
+    height: auto;
+}
